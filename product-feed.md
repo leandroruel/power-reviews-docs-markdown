@@ -9,7 +9,7 @@ O PowerReviews pode aceitar o feed do produto nos seguintes formatos:
 
 **Feed de Produtos Google Merchant**
 
-Muitos clientes do PowerReviews já estão fornecendo um Feed de Produto Do Google Merchant para o Google. Se você estiver gerando este arquivo, pode ser possível usar sua alimentação existente com alguns requisitos adicionais. Se você deseja tentar usar um Feed de Produto Do Google Merchant existente, você pode encontrar mais informações no [Google Merchant Product Feed]().
+Muitos clientes do PowerReviews já estão fornecendo um Feed de Produto Do Google Merchant para o Google. Se você estiver gerando este arquivo, pode ser possível usar sua alimentação existente com alguns requisitos adicionais. Se você deseja tentar usar um Feed de Produto Do Google Merchant existente, você pode encontrar mais informações no [Google Merchant Product Feed](google-merchant-feed.md).
 
 **Campos Necessários**
 
