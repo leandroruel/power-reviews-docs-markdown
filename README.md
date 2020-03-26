@@ -6,7 +6,7 @@ Sinta-se livre para ajudar na tradução, uma vez que isso torna a documentaçã
 
 ## Documentação
 
-* O que há de novo
+* [O que há de novo](whats-new.md)
 * [Começando](getting-started.md)
 * Avaliações e Revisões
   * [Coletando Avaliações e Revisões](collect.md)
